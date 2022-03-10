@@ -367,6 +367,7 @@ section .container {
   margin-bottom: 0;
 }
 
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
@@ -437,6 +438,16 @@ section .container {
   background-color: #18d26e;
 }
 
+
+.btn-warning:hover{
+  background-color: #18d26e;
+  border: 2px solid white;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-warning span{
+  color: white;
+}
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
