@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@600&display=swap');
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1069,4 +1070,8 @@ border: 1px solid rgba(255, 255, 255, 0.49);
 .script{
   font-family: 'Pacifico', cursive;
   font-size: 40px;
+}
+
+.services-links a{
+  color: white;
 }
